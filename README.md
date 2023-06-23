@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @pyr01ken<br>I'm a python developer.<br>I love helping people.
+👋 Hi, I’m @pyr01ken<br>👾 I'm a python developer.<br>💙 I love helping people.
 
 
 # 💻 Tech Stack:
