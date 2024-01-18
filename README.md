@@ -1,4 +1,4 @@
-<center> Hi I'm @pyr0ken. </center>
+# Hi I'm @pyr0ken.
 
 # 💻 Tech Stack:
 <p align="center">
@@ -8,7 +8,6 @@
 </p>
 
 # 📊 GitHub Stats:
-# ![](https://github-readme-stats.vercel.app/api?username=pyr0ken&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pyr0ken&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyr0ken&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
