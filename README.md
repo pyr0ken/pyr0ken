@@ -5,7 +5,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,git,linux,vscode, postgres,postman,docker,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=python,django,linux,vscode,postgres,postman,git,docker,html,css,js" />
   </a>
 </p>
 
