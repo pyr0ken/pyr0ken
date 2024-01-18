@@ -1,4 +1,4 @@
-# <center> Hi I'm @pyr0ken. </center>
+<center> Hi I'm @pyr0ken. </center>
 
 # 💻 Tech Stack:
 <p align="center">
