@@ -1,6 +1,6 @@
 # Hi I'm mohammad hosein.
 
-# 💻 Tech Stack:
+# 💻 Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,vscode,postgres,django,postman,git,docker,html,css,js" />
