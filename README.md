@@ -1,11 +1,11 @@
 # Hi I'm mohammad hosein.
 
 # 💻 Skills:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,vscode,postgres,django,postman,git,docker,html,css,js" />
-  </a>
-</p>
+back-end | <img src="https://skillicons.dev/icons?i=python,django" />
+--- | :---: 
+front-end | <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwindcss" />
+database | <img src="https://skillicons.dev/icons?i=postgres,redis" />
+tools | <img src="https://skillicons.dev/icons?i=linux,vscode,postman,git,docker" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pyr0ken&theme=dark&hide_border=false)<br/>
