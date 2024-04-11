@@ -3,7 +3,7 @@
 # 💻 Skills:
 back-end | <img src="https://skillicons.dev/icons?i=python,django" />
 --- | :---: 
-front-end | <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwindcss" />
+front-end | <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwindcss" />
 database | <img src="https://skillicons.dev/icons?i=postgres,redis" />
 tools | <img src="https://skillicons.dev/icons?i=linux,vscode,postman,git,docker" />
 
