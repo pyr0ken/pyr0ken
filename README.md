@@ -1,7 +1,7 @@
 # Hi I'm mohammad hosein.
 
 # 💻 Skills:
-back-end | <img src="https://skillicons.dev/icons?i=python,django,bun,elysia" />
+back-end | <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
 --- | :---: 
 front-end | <img src="https://skillicons.dev/icons?i=html,css,js,react,next,threejs,tailwindcss" />
 database | <img src="https://skillicons.dev/icons?i=postgres,redis" />
