@@ -4,7 +4,7 @@
 back-end | <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" />
 --- | :---: 
 front-end | <img src="https://skillicons.dev/icons?i=html,css,js,react,next,threejs,tailwindcss" />
-database | <img src="https://skillicons.dev/icons?i=postgres,redis" />
+database | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 tools | <img src="https://skillicons.dev/icons?i=linux,vscode,postman,git,docker" />
 
 ## 🐍 My Contributions
