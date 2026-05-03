@@ -1,10 +1,5 @@
 
-
-back-end | <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" />
---- | :---: 
-front-end | <img src="https://skillicons.dev/icons?i=html,css,js,react,next,threejs,tailwindcss" />
-database | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-tools | <img src="https://skillicons.dev/icons?i=linux,vscode,postman,git,docker" />
+![icon-collection-basic](https://stats.pphat.top/icons?name=python,django,fastapi,react,tailwindcss,three.js,postgresql,mongodb,redis,git,docker,linux,vscode&columns=20)
 
 <div align="center">
   <picture>
