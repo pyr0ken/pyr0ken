@@ -53,9 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pyr0ken&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="pyr0ken's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyr0ken&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" />
 </div>
-
----
-
-<div align="center">
-  <sub>Let's connect: <a href="https://github.com/pyr0ken">GitHub</a> • <a href="mailto:contact@pyr0ken.me">Email</a></sub>
-</div>
